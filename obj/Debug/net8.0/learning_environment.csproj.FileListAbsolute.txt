@@ -1,0 +1,14 @@
+C:\c_sharp_class\learning_environment\bin\Debug\net8.0\learning_environment.exe
+C:\c_sharp_class\learning_environment\bin\Debug\net8.0\learning_environment.deps.json
+C:\c_sharp_class\learning_environment\bin\Debug\net8.0\learning_environment.runtimeconfig.json
+C:\c_sharp_class\learning_environment\bin\Debug\net8.0\learning_environment.dll
+C:\c_sharp_class\learning_environment\bin\Debug\net8.0\learning_environment.pdb
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.AssemblyInfoInputs.cache
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.AssemblyInfo.cs
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.csproj.CoreCompileInputs.cache
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.dll
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\refint\learning_environment.dll
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.pdb
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\learning_environment.genruntimeconfig.cache
+C:\c_sharp_class\learning_environment\obj\Debug\net8.0\ref\learning_environment.dll
